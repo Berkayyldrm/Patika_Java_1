@@ -13,12 +13,11 @@ public class Main {
             System.out.println(" ");
         }
 
-        for(int i=0; i<=n; i++){
-            System.out.print(" ");
+        for(int i=1; i<=n; i++){
             for(int j=n; j>n-i; j--){
                 System.out.print(" ");
             }
-            for (int k = n+2; k >= (2 * i); k--) {
+            for (int k = 0; k < 2*(n-i)+1; k++) {
                 System.out.print("*");
             }
             System.out.println(" ");
