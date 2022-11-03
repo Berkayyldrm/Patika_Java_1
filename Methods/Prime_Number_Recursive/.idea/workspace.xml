@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80e79310-28e7-468f-be3d-30626cfee032" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Calc_Power/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calc_Power/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="80e79310-28e7-468f-be3d-30626cfee032" name="Changes" comment="Asal Sayı Bulan Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667477008157</updated>
     </task>
+    <task id="LOCAL-00001" summary="Asal Sayı Bulan Program">
+      <created>1667481154912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667481154912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -50,5 +55,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Asal Sayı Bulan Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asal Sayı Bulan Program" />
   </component>
 </project>
