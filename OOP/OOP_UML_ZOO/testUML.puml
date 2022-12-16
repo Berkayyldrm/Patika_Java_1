@@ -1,0 +1,81 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+class Animals{
+kind:String
+weight:float
+age:int
+getDosage():int
+getFeedSchedule():int
+}
+
+class HorseFamily{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Horse {
+getDosage():int
+getFeedSchedule():int
+}
+
+class Zebra{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Donkey{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Feline{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Tiger{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Lion{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Rodents{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Rat{
+getDosage():int
+getFeedSchedule():int
+}
+
+class Beaver{
+getDosage():int
+getFeedSchedule():int
+}
+
+Animals <|-- HorseFamily
+Animals <|-- Feline
+Animals <|-- Rodents
+
+HorseFamily <|-- Horse
+HorseFamily <|-- Zebra
+HorseFamily <|-- Donkey
+
+Feline <|-- Tiger
+Feline <|-- Lion
+
+Rodents <|-- Rat
+Rodents <|-- Beaver
+
+
+
+
+
+@enduml
